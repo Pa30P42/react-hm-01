@@ -1,0 +1,44 @@
+.sections {
+  border: 1px solid teal;
+  width: 250px;
+}
+
+.title {
+  font-size: 16px;
+  letter-spacing: 0px;
+  color: #475965;
+  font-weight: bold;
+  line-height: 70px;
+  text-align: center;
+  text-transform: uppercase;
+}
+.list {
+  display: flex;
+  justify-content: space-around;
+}
+
+span {
+  display: block;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.percentage {
+  font-size: 18px;
+  letter-spacing: 0px;
+  line-height: 20px;
+  color: #ffffff;
+}
+
+.label {
+  font-size: 12px;
+  letter-spacing: 0px;
+  line-height: 20px;
+  color: #ffffff;
+  font-weight: 300;
+}
+
+.item {
+  width: 63px;
+  height: 60px;
+}

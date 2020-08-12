@@ -1,0 +1,16 @@
+.listHead {
+  height: 48px;
+  background-color: #00bcd4;
+}
+.listHeadItem {
+  font-size: 13px;
+  letter-spacing: 1px;
+  line-height: 30px;
+  color: #ffffff;
+  font-weight: bold;
+}
+
+.container {
+  border: 1px solid gray;
+  width: 870px;
+}
